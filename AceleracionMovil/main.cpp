@@ -45,10 +45,10 @@ int main(){
 		}
 		switch(final){
 			case 1:
-				printf("La aceleración del movil es: %.2f\n", total1);	//primera impresion de la opcion 1
+				printf("La aceleracion del movil es: %.2f\n", total1);	//primera impresion de la opcion 1
 			break;	
 			case 2:
-				printf("La aceleración del movil es: %.2f\n", total2);	//segunda impresion de la opcion 2
+				printf("La aceleracion del movil es: %.2f\n", total2);	//segunda impresion de la opcion 2
 			break;
 		}
 	}
